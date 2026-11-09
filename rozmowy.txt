@@ -61,3 +61,82 @@ Uwagi i korekty:
 - "calentar" to czasownik bazowy; "calentarse" jest formą zwrotną i może znaczyć „rozgrzać się” lub „ogrzać się” zależnie od kontekstu.
 
 Nota: zapisano dostępny tekstowy przebieg rozmowy. Fragmenty pochodzące z automatycznej transkrypcji mogą zawierać błędy; nie odtwarzano brakujących słów z domysłów.
+
+
+------------------------------------------------------------
+Data: 2026-11-09
+Temat: Bieganie — spokojny trening 10 km oraz zasady nauki hiszpańskiego
+
+Jędrzej: Ok, vamos a hablar en español y quiero que sigues nuestra nuestro contract que después vamos a escribir y seguir esto que vamos a hablar en GitHub en esta pagina de texto.
+ChatGPT: Perfecto.
+Jędrzej: que me entiendes?
+ChatGPT: Sí, entendido: hablamos solo en español, y luego lo volcamos a GitHub en una página de texto. Dale, ¿sobre qué quieres hablar primero?
+Jędrzej: Si pero quiero que vas a seguir y vale, no se como se dice que quieres como no seguir pero se dice que
+ChatGPT: Como que no Sí, como que lo vamos a guardar. Guardar, no seguir.
+Jędrzej: Save Si, guardar
+ChatGPT: Exacto, vamos a guardarlo.
+Jędrzej: Mhm, mhm
+ChatGPT: Cuando acabemos esta charla, escribimos lo importante en GitHub, en un archivo de texto, usando nuestro formato de notas. ¿Te parece bien así?
+Jędrzej: Pero tenemos
+ChatGPT: Te escucho,
+Jędrzej: pero tenemos dos formatos en uno es un diccionario pero también tenemos un transcript
+ChatGPT: Claro: separamos en dos cosas. Una, la página de GitHub con el transcript de hoy, en texto plano y ordenado. Y otra, tipo diccionario de frases y vocabulario, separado. ¿Así te sirve?
+Jędrzej: Mhm Si.
+ChatGPT: Vale, entonces
+Jędrzej: Si y vamos a hablar hoy sobre corriendo y voy a decirte pronto que estaba corriendo hoy y vale, voy a decirte como no se lo va
+ChatGPT: Perfecto, cuando quieras. Cuéntame cómo te fue corriendo hoy: sensaciones, ritmo, distancia, o si hubo algo raro en el cuerpo. Luego lo dejamos listo para GitHub.
+Jędrzej: Si, y que es importante que me puedes eh corregir cuando yo hace un error y sabes puedes decirme que hizo malo y que es una forma propia o si hay una una manera de decir misma cosa pero en una manera más buena
+ChatGPT: Sí, te corrijo con mucho gusto cuando haya un error, y te propongo una forma más natural de decirlo. Por ejemplo, si dices “yo hace un error”, te diría que es mejor decir “cometí un error”. Cuando quieras, me
+Jędrzej: Vale, y esto también vamos a guardar en el formato de texto
+ChatGPT: Sí, lo vamos a guardar también, cuando terminemos, en el formato de texto acordado, dejando claro qué fue corrección,
+Jędrzej: Mhm
+ChatGPT: qué fue progreso y qué fue vocabulario.
+Jędrzej: Si, si, vale, hace un pregunta sobre mi corriendo y mi tarde del día
+ChatGPT: Vale, ¿qué tal te fue corriendo hoy y qué hiciste por la tarde? Cuéntamelo como te salga, y luego lo dejamos listo para guardar.
+Jędrzej: Va, dice como 10 kilómetros eh en una manera muy eh muy despacio, despacito, como se dice
+ChatGPT: Despacito, sí. ¿Corriendo 10 kilómetros despacito o fue más bien suave, sin prisa? ¿Y qué tal te sentiste durante la tarde? Cuerpo, mente.
+Jędrzej: Ajá Si
+ChatGPT: la tarde? Cuerpo, mente.
+Jędrzej: Si Vale, me me sentí muy bien por esto porque también ah no hice con tanta fuerza este corriendo y por esto tuve como, sabes
+ChatGPT: Claro, te entiendo. Mejor así, sin apretar tanto. Podemos decir:
+Jędrzej: Vale, vamos a vamos a guardar esto y eh si, y es todo por ahí por allá
+ChatGPT: Vale, lo dejo listo para guardar.
+Jędrzej: Mhm
+Jędrzej: Zapisz do github
+
+Podsumowanie rozmowy:
+- Temat główny: spokojny bieg na dystansie około 10 km.
+- Użytkownik opisał, że biegł bardzo wolno / spokojnie i czuł się dzięki temu bardzo dobrze, ponieważ nie biegł z dużym wysiłkiem.
+- Nie podano tempa ani dokładnego czasu biegu.
+- Ustalono sposób pracy: rozmowa po hiszpańsku; asystent na bieżąco poprawia błędy, wyjaśnia dlaczego dana forma jest niepoprawna i proponuje bardziej naturalne sformułowanie.
+- Po każdej rozmowie zapisujemy dwa osobne pliki: transkrypcję w rozmowy.txt oraz słownictwo i przydatne zwroty w slownik.txt.
+- W transkrypcji zachowujemy wypowiedzi i dodajemy sekcję z korektami, naturalniejszymi wersjami i krótkim wyjaśnieniem. Nie dopisujemy nieusłyszanych fragmentów.
+
+Korekty i bardziej naturalne wersje:
+1. „Quiero que sigues...” → „Quiero que sigas...”
+   Po „querer que” używamy subjuntivo: „quiero que + presente de subjuntivo”.
+2. „nuestro nuestro contract” → „nuestro acuerdo” / „lo que hemos acordado”.
+   „Acuerdo” znaczy „ustalenie”; „contrato” to raczej formalna umowa.
+3. „que después vamos a escribir...” → „y que después vamos a guardar por escrito lo que hablemos en GitHub”.
+   „Guardar” = zachować/zapisać; „seguir” = kontynuować/podążać za czymś.
+4. „quiero que vas a corregirme” → „quiero que me corrijas”.
+   Po „quiero que” ponownie używamy subjuntivo.
+5. „cuando yo hace un error” → „cuando cometo un error”.
+   Mówimy „cometer un error”, nie „hacer un error”.
+6. „decirme qué hizo malo” → „decirme qué he hecho mal” albo „explicarme qué he dicho mal”.
+   „Mal” jest tu przysłówkiem; „malo” to przymiotnik.
+7. „una forma propia” → „una forma correcta” / „una manera más natural”.
+8. „decir misma cosa” → „decir lo mismo”.
+9. „en una manera más buena” → „de una manera mejor” / „de una forma más natural”.
+10. „hace un pregunta” → „hazme una pregunta”.
+    „Pregunta” jest rodzaju żeńskiego, a w prośbie używamy trybu rozkazującego „hazme”.
+11. „sobre mi corriendo” → „sobre mi forma de correr” / „sobre cómo he corrido hoy”.
+12. „corrí 10 kilómetros muy despacio” — proste, naturalne zdanie: „Przebiegłem 10 km bardzo spokojnie”.
+13. „me sentí muy bien por esto” → „por eso me sentí muy bien”.
+    „Por eso” = dlatego; naturalniejszy szyk w tym zdaniu.
+14. „no hice con tanta fuerza este corriendo” → „no corrí haciendo tanto esfuerzo” / „no me esforcé tanto al correr”.
+    Można też powiedzieć: „Fue un entrenamiento suave, sin apretar demasiado”.
+15. „es todo por ahí por allá” → „y eso es todo por hoy” / „por ahora, eso es todo”.
+    To naturalne zakończenie rozmowy: „i to wszystko na dziś / na razie”.
+
+Nota: użytkownik ocenił trening jako bardzo spokojny i powiedział, że po biegu czuł się bardzo dobrze. Wypowiedzi zachowano w brzmieniu dostępnym w rozmowie; niepewne lub urwane fragmenty nie zostały uzupełnione domysłami.
