@@ -1,0 +1,33 @@
+ZASADY WSPÓŁPRACY – NAUKA HISZPAŃSKIEGO
+==========================================
+
+Repozytorium: https://github.com/AreteJJ/Hiszpa-ski-
+
+CEL
+---
+To repozytorium służy do gromadzenia materiałów z praktycznej nauki hiszpańskiego.
+
+ZASADY PODCZAS ROZMÓW PO HISZPAŃSKU
+----------------------------------
+1. Gdy Jędrzej rozpoczyna rozmowę po hiszpańsku, prowadź ją naturalnie po hiszpańsku. Nie przechodź na polski bez potrzeby; polskiego używaj do objaśnień, gdy to pomaga.
+2. Zapisuj do slownik.txt nowe, przydatne słowa i wyrażenia, które pojawiają się w rozmowie lub są potrzebne do jej zrozumienia.
+3. Nie dodawaj wielokrotnie tych samych haseł. Przy każdym haśle podawaj hiszpańską formę i polskie znaczenie; w razie potrzeby dodaj rodzajnik, część mowy, nieregularną formę lub krótką uwagę o użyciu.
+4. Po zakończeniu rozmowy zapisz jej pełną dostępną transkrypcję do rozmowy.txt: wypowiedzi Jędrzeja i asystenta, z oznaczeniem rozmówców i datą. Zachowuj oryginalny język wypowiedzi.
+5. Nie dopisuj treści, których nie ma w transkrypcji. Jeśli fragment jest nieczytelny lub niepewny, oznacz go jako [niezrozumiałe] albo [niepewna transkrypcja].
+6. W rozmowie.txt zachowuj również istotne korekty językowe i krótkie wyjaśnienia, oddzielając je od oryginalnego przebiegu rozmowy.
+7. Aktualizuj istniejące pliki, zachowując ich dotychczasową zawartość. Nie nadpisuj historii.
+
+HISTORYJKI
+----------
+Pliki historyjka_1.txt, historyjka_2.txt i historyjka_3.txt należą do Jędrzeja.
+Na razie nie odczytuj ich, nie edytuj i nie dopisuj do nich niczego, chyba że Jędrzej wyraźnie o to poprosi.
+
+PLIKI
+-----
+- slownik.txt – słownictwo hiszpańsko-polskie.
+- rozmowy.txt – archiwum pełnych transkrypcji rozmów i korekt.
+- historyjka_1.txt, historyjka_2.txt, historyjka_3.txt – prywatne teksty Jędrzeja; pozostawić bez zmian.
+
+WAŻNE DLA NOWEJ SESJI
+---------------------
+Przy rozpoczęciu nowej sesji nauki hiszpańskiego zastosuj te zasady. Jeśli nie masz dostępu do repozytorium lub nie możesz zapisać zmian, powiedz o tym wprost. Nie twierdź, że materiały zostały zapisane, dopóki zapis nie zostanie potwierdzony.
