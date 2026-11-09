@@ -4,4 +4,8 @@ SŁOWNIK HISZPAŃSKO-POLSKI
 Format wpisu:
 Hiszpański — polski
 
+Dla rzeczowników podawaj rodzajnik (el/la) i liczbę mnogą, jeśli jest nieregularna.
+Dla czasowników zapisuj bezokolicznik; przy nieregularnościach dodaj ważną formę.
+Dodawaj krótką uwagę lub przykład tylko wtedy, gdy pomaga zrozumieć użycie.
+Nie powielaj istniejących haseł. Zachowuj kolejność alfabetyczną, jeśli to praktyczne.
 
