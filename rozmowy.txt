@@ -12,3 +12,52 @@ Dla każdej rozmowy zapisuj:
 Nie dopisuj wypowiedzi, których nie ma w transkrypcji. Niepewne fragmenty oznaczaj jako [niezrozumiałe] lub [niepewna transkrypcja].
 Nowe rozmowy dopisuj na końcu pliku, nie nadpisując wcześniejszych.
 
+
+------------------------------------------------------------
+Data: 2026-11-09
+Temat: Rozmowa o pracy, bieganiu i rozgrzewce
+
+Jędrzej: Vale, entonces vamos a... mmm practicar y ver como funciona nuestro curso, nuestro eh ejemplo.
+ChatGPT: Sí, claro.
+Jędrzej: de
+ChatGPT: Estoy listo.
+Jędrzej: Vale eh eh
+ChatGPT: Dime, sí.
+Jędrzej: entonces vamos a hablar y vale cuando haces un error tu me corriges y sí y también quiero que vas a poner eh algunas nuevas frases al diccionario y también todo transcriptó de nuestro conversación como nos eh como tenemos un acuerdo de hacer así. Entonces
+ChatGPT: Sí, ...
+Jędrzej: vale, pregúntame algo y vamos a hablar
+ChatGPT: Claro, perfecto. Empiezo con una pregunta simple. ¿Cómo te fue el día de hoy? Puedes contestar en español como te salga, y si hay algún error, lo corregimos juntos.
+Jędrzej: Mhm mhm vale hoy estaba trabajando muchísimo pero en verdad eran cosas interesantes y sí, ahora me estoy preparando para ir al entrenamiento, pienso que voy a correr un poquito
+ChatGPT: Bien. Solo un pequeño ajuste: en vez de decir "estaba trabajando muchísimo", puedes decir "estuve trabajando mucho". Muy natural. Ahora te pregunto: ¿con quién entrenas o entrenas solo?
+Jędrzej: No entreno solo, vale, sabes, en Polonia es frío, muchísimo, hay frío muchísimo, eh y sí, sólo voy a correr solo por mí por mi mismo
+ChatGPT: Bien, muy bien dicho. Mejor sería: "Sí, corro solo, por mi cuenta". O simplemente: "Sí, corro solo". ¡Vamos con una palabra! Para "entrar en calor", ¿sabes qué significa?
+Jędrzej: No, dime
+ChatGPT: Significa preparar el cuerpo antes de correr, con movimientos suaves o estiramientos dinámicos, para no lesionarte. Por ejemplo, ¿cómo calientas antes de salir a correr?
+Jędrzej: Ah, ya, he escrito esto en mi diccionario o sabes en esta forma
+ChatGPT: Buena pregunta. Lo guardo en el archivo transcripción, y agrego la palabra "calentar" con su explicación al diccionario. Así que...
+Jędrzej: Pero sabes donde
+ChatGPT: Sí, en el repo de GitHub "Hispañol", en los archivos de texto. Agrego la palabra con el formato que acordamos. ¿Quieres que la ponga como verbo: calentar, preparar el cuerpo antes de hacer deporte?
+Jędrzej: Eh. Sí, puedes hacerlo, pero es solo palabra calentar o calentarse
+ChatGPT: Buena observación. Como verbo ponemos "calentar", que es la forma base. Luego, si quieres, podemos añadir ejemplos con "calentarse". ¿Cómo es tu rutina de calentamiento?
+Jędrzej: Mmm solo así un poquito de entrenamientos como para mi piernas... como sabes, ¿cómo se dice squats en español
+ChatGPT: Se dice sentadillas. Así que podrías decir: "Hago unas sentadillas y un poco de ejercicios para las piernas". ¿Quieres decir también estiramientos antes de correr?
+Jędrzej: Sí, y ponerlo en diccionario
+ChatGPT: Perfecto, la palabra "sentadillas" ya queda clara. Agregamos "calentar" al diccionario, con una frase de ejemplo. Así: "Antes de correr, caliento con estiramientos dinámicos". Ahora, te propongo otra pregunta: ¿haces estiramientos dinámicos o estáticos antes de correr?
+Jędrzej: Mhm No, no, no, siempre dinámicos, sabes para no, en mi en mi mente, es verdad que no me gusta muchísimo estos eh estrechos en eh estáticos
+ChatGPT: Sí, exacto: estiramientos estáticos...
+Jędrzej: me prefiere hacerlo dinámico
+ChatGPT: No son lo mejor justo antes de correr, mejor dinámicos. Entonces tu frase quedaría: "Siempre hago estiramientos dinámicos antes de correr, no estáticos". Perfecta. ¿Quieres añadir algo más a la frase?
+Jędrzej: Vale, vamos a terminar por hoy, quiero que los escribes en sabes, en estas formas, eh de GitHub y vale, vamos a hablar pronto
+ChatGPT: Perfecto, dejo todo registrado y hablamos pronto. Que tengas buen descanso. Chao.
+Jędrzej: Sí, sí, chao, tú también. [clear throat]
+ChatGPT: Chao.
+
+Uwagi i korekty:
+- "Hoy estaba trabajando muchísimo" jest poprawne, jeśli opisujesz trwającą czynność w przeszłości; "Hoy he trabajado mucho" / "Hoy trabajé mucho" brzmi naturalnie jako podsumowanie dnia (dobór zależy od odmiany hiszpańskiego).
+- "En Polonia hace muchísimo frío" — po hiszpańsku mówimy hacer frío, nie "hay frío".
+- "Corro solo, por mi cuenta" — naturalne: „Biegam sam, na własną rękę”.
+- "Hago unas sentadillas y algunos ejercicios para las piernas" — „Robię kilka przysiadów i parę ćwiczeń na nogi”.
+- "Siempre hago estiramientos dinámicos; no me gustan mucho los estáticos" — naturalniejsza konstrukcja niż "me prefiere hacerlo dinámico".
+- "calentar" to czasownik bazowy; "calentarse" jest formą zwrotną i może znaczyć „rozgrzać się” lub „ogrzać się” zależnie od kontekstu.
+
+Nota: zapisano dostępny tekstowy przebieg rozmowy. Fragmenty pochodzące z automatycznej transkrypcji mogą zawierać błędy; nie odtwarzano brakujących słów z domysłów.
