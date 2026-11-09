@@ -1,14 +1,14 @@
 ROZMOWY Z CHATEM – NAUKA HISZPAŃSKIEGO
 =====================================
 
-Zapisuj tutaj rozmowy w języku hiszpańskim.
+Archiwum pełnych dostępnych transkrypcji rozmów prowadzonych po hiszpańsku.
 
-Zalecany format:
-Data:
-Temat:
+Dla każdej rozmowy zapisuj:
+- datę i temat;
+- pełny dostępny przebieg rozmowy z oznaczeniem rozmówców (Jędrzej / ChatGPT);
+- oryginalny język wypowiedzi;
+- po transkrypcji: istotne korekty, poprawne wersje i krótkie wyjaśnienia.
 
-[Przebieg rozmowy]
-
-[Poprawki i wyjaśnienia]
-
+Nie dopisuj wypowiedzi, których nie ma w transkrypcji. Niepewne fragmenty oznaczaj jako [niezrozumiałe] lub [niepewna transkrypcja].
+Nowe rozmowy dopisuj na końcu pliku, nie nadpisując wcześniejszych.
 
