@@ -140,3 +140,55 @@ Korekty i bardziej naturalne wersje:
     To naturalne zakończenie rozmowy: „i to wszystko na dziś / na razie”.
 
 Nota: użytkownik ocenił trening jako bardzo spokojny i powiedział, że po biegu czuł się bardzo dobrze. Wypowiedzi zachowano w brzmieniu dostępnym w rozmowie; niepewne lub urwane fragmenty nie zostały uzupełnione domysłami.
+
+
+------------------------------------------------------------
+Data: 2026-11-10
+Temat: Krótka rozmowa przed wyjściem na bieganie
+
+Jędrzej: Vamos a...
+ChatGPT: Claro, vamos. ¿Con qué seguimos?
+Jędrzej: Vale, ¿puedes decirme ahora si entiendes?
+ChatGPT: Sí, te entiendo. Dime qué quieres contarme o qué necesitas que guarde.
+Jędrzej: Vale, vamos a hablar esto y ¿sabes vas a corregir y escribir este transcripción en el GitHub Va a funcionar como ayer dime si recuerdas
+ChatGPT: Sí, lo reviso ahora mismo y lo dejamos igual que ayer. Dame un segundito.
+Jędrzej: Y y que pasa ahora Que va a
+ChatGPT: Sí, claro que lo recuerdo. Vamos a seguir exactamente el mismo método que ayer: hablamos en español, te corrijo mientras hablamos, al final subimos la transcripción y el diccionario a GitHub, como ayer. Y una pequeña corrección:
+Jędrzej: Mhm, mhm
+ChatGPT: Sí, claro que lo recuerdo. Vamos a seguir exactamente el mismo método que ayer. Nuestro método de aprendizaje de español: hablamos en español; te corrijo durante la conversación; explico los errores y propongo alternativas naturales; al terminar actualizamos rozmowy.txt y slownik.txt.
+Jędrzej: Mhm, mhm
+ChatGPT: “¿Puedes decirme ahora si lo has entendido?” suena más natural que como lo dijiste. ¿Qué te gustaría contarme hoy?
+Jędrzej: Sí Eta gustaría contarme hoy, vale, se dice así
+ChatGPT: Vale, así es.
+Jędrzej: Vale, hoy voy a decir que voy a hacer un en un momento
+ChatGPT: Perfecto, te escucho cuando me lo quieras contar. Si te sale una frase rara, yo te la ajusto mientras hablas y luego lo dejamos listo.
+Jędrzej: Entonces, hace una pregunta
+ChatGPT: Claro, ¿qué fue lo más tranquilo o lo más suave de tu salida de hoy?
+Jędrzej: vale, yo no sale ya voy a hacerlo
+ChatGPT: Ah, entendido. Cuando estés listo, me cuentas qué hiciste, y lo corrijo y lo dejamos preparado para GitHub.
+Jędrzej: Vale, hasta luego
+ChatGPT: Hasta luego, cuídate.
+Jędrzej: Zapisz do github
+
+Podsumowanie:
+- Rozmowa była krótka i dotyczyła potwierdzenia, że kontynuujemy ustalony sposób nauki hiszpańskiego.
+- Użytkownik chciał powiedzieć, że jeszcze nie wyszedł biegać, ale zamierza to zrobić za chwilę.
+- Nie odbyła się jeszcze relacja z treningu; nie znamy dystansu, tempa ani samopoczucia po biegu.
+- Utrzymujemy dwa pliki: rozmowy.txt (transkrypcje i korekty) oraz slownik.txt (nowe słowa i zwroty).
+
+Korekty i bardziej naturalne wersje:
+1. „¿Puedes decirme ahora si entiendes?” → „¿Puedes decirme si lo has entendido?” / „¿Me entiendes?”
+   Pierwsza wersja pyta, czy rozmówca zrozumiał ustalenia; druga po prostu „Czy mnie rozumiesz?”.
+2. „Vamos a hablar esto” → „Vamos a hablar de esto” / „Vamos a hablar sobre esto”.
+   Po „hablar” w znaczeniu „rozmawiać o czymś” używamy „de” lub „sobre”.
+3. „vas a corregir y escribir este transcripción en el GitHub” → „vas a corregirme y guardar la transcripción en GitHub”.
+   „Transcripción” jest rodzaju żeńskiego: „la transcripción”. W tym kontekście „guardar” (zapisać) jest lepsze niż „escribir” (napisać).
+4. „dime si recuerdas” — poprawne; bardziej naturalnie w tym kontekście: „Dime si te acuerdas” albo „¿Te acuerdas de nuestro acuerdo?”.
+5. „Sí Eta gustaría contarme hoy” — prawdopodobnie chodziło o „Sí, me gustaría contarte algo hoy” (Tak, chciałbym ci dziś coś opowiedzieć) albo „Sí, me gustaría contarte lo que hice hoy”. „Me gustaría” = chciałbym; „contarte” = opowiedzieć ci.
+6. „hoy voy a decir que voy a hacer un en un momento” → „Hoy voy a hacerlo dentro de un momento” albo, jeśli chodzi o bieganie: „Voy a salir a correr dentro de un momento”.
+   „Dentro de un momento” znaczy „za chwilę”.
+7. „hace una pregunta” → „hazme una pregunta”.
+   To prośba w trybie rozkazującym: „haz” + „me”; „pregunta” jest rodzaju żeńskiego.
+8. „yo no sale ya voy a hacerlo” → „Todavía no he salido; voy a hacerlo ahora” albo „Aún no he salido; voy a salir a correr dentro de un momento”.
+   „Salir” w pierwszej osobie to „salgo”; w czasie pretérito perfecto: „he salido”. „Todavía no” i „aún no” znaczą „jeszcze nie”.
+
